@@ -1,0 +1,142 @@
+{
+    "Colors": {
+        "Border": "00000080",
+        "BorderShadow": "00000000",
+        "Button": "5A669C9F",
+        "ButtonActive": "0700FFFF",
+        "ButtonHovered": "667BB6CA",
+        "CheckMark": "FF0000FF",
+        "ChildBg": "00000000",
+        "DockingEmptyBg": "333333FF",
+        "DockingPreview": "6666E651",
+        "DragDropTarget": "FFFF00E6",
+        "FrameBg": "3436849D",
+        "FrameBgActive": "6C69A4B0",
+        "FrameBgHovered": "7878B066",
+        "Header": "CB00FFFF",
+        "HeaderActive": "8888DECC",
+        "HeaderHovered": "7373E6CC",
+        "MenuBarBg": "30309BCC",
+        "ModalWindowDimBg": "3333335A",
+        "NavHighlight": "7373E6CC",
+        "NavWindowingDimBg": "CCCCCC33",
+        "NavWindowingHighlight": "FFFFFFB3",
+        "PlotHistogram": "E6B300FF",
+        "PlotHistogramHovered": "FF9900FF",
+        "PlotLines": "FFFFFFFF",
+        "PlotLinesHovered": "E6B300FF",
+        "PopupBg": "A941BCEB",
+        "ResizeGrip": "FFFFFF1A",
+        "ResizeGripActive": "C7D2FFE6",
+        "ResizeGripHovered": "C7D2FF99",
+        "ScrollbarBg": "33404D99",
+        "ScrollbarGrab": "6666CC4D",
+        "ScrollbarGrabActive": "6964CC99",
+        "ScrollbarGrabHovered": "6666CC66",
+        "Separator": "80808099",
+        "SeparatorActive": "B3B3E6FF",
+        "SeparatorHovered": "9999B3FF",
+        "SliderGrab": "FFFFFF4D",
+        "SliderGrabActive": "0D00FFFF",
+        "Tab": "5656AFC9",
+        "TabActive": "000000D7",
+        "TabHovered": "7373E6CC",
+        "TabUnfocused": "494992D2",
+        "TabUnfocusedActive": "5A5AA7D6",
+        "TableBorderLight": "434348FF",
+        "TableBorderStrong": "505073FF",
+        "TableHeaderBg": "454561FF",
+        "TableRowBg": "00000000",
+        "TableRowBgAlt": "FFFFFF12",
+        "Text": "FF00BDFF",
+        "TextDisabled": "000000FF",
+        "TextSelectedBg": "0000FF5A",
+        "TitleBg": "45458AD4",
+        "TitleBgActive": "5C0B82DE",
+        "TitleBgCollapsed": "6666CC33",
+        "WindowBg": "330433FF"
+    },
+    "Styles": {
+        "Alpha": 0.699999988079071,
+        "AntiAliasedFill": true,
+        "AntiAliasedLines": true,
+        "AntiAliasedLinesUseTex": true,
+        "ButtonTextAlign": [
+            0.5199999809265137,
+            0.5
+        ],
+        "CellPadding": [
+            5.0,
+            7.0
+        ],
+        "ChildBorderSize": 1.0,
+        "ChildRounding": 5.0,
+        "CircleTessellationMaxError": 0.10000000149011612,
+        "ColorButtonPosition": 1,
+        "ColumnsMinSpacing": 6.0,
+        "CurveTessellationTol": 0.10000000149011612,
+        "DisabledAlpha": 1.0,
+        "DisplaySafeAreaPadding": [
+            0.0,
+            0.0
+        ],
+        "DisplayWindowPadding": [
+            19.0,
+            19.0
+        ],
+        "FrameBorderSize": 1.0,
+        "FramePadding": [
+            9.0,
+            5.0
+        ],
+        "FrameRounding": 12.0,
+        "GrabMinSize": 20.0,
+        "GrabRounding": 12.0,
+        "IndentSpacing": 11.0,
+        "ItemInnerSpacing": [
+            20.0,
+            8.0
+        ],
+        "ItemSpacing": [
+            8.0,
+            6.0
+        ],
+        "LogSliderDeadzone": 7.0,
+        "MouseCursorScale": 1.0,
+        "PopupBorderSize": 1.0,
+        "PopupRounding": 7.0,
+        "ScrollbarRounding": 7.0,
+        "ScrollbarSize": 2.0,
+        "SelectableTextAlign": [
+            0.0,
+            0.0
+        ],
+        "TabBorderSize": 1.0,
+        "TabMinWidthForCloseButton": 0.0,
+        "TabRounding": 10.0,
+        "TouchExtraPadding": [
+            6.0,
+            1.0
+        ],
+        "WindowBorderSize": 1.0,
+        "WindowMenuButtonPosition": 0,
+        "WindowMinSize": [
+            32.0,
+            32.0
+        ],
+        "WindowPadding": [
+            7.0,
+            7.0
+        ],
+        "WindowRounding": 12.0,
+        "WindowTitleAlign": [
+            0.5099999904632568,
+            0.5099999904632568
+        ]
+
+    }
+}
+{"UID": {
+    "toggled": true,
+    "value": "Theme_By_R7zn"}
+}
